@@ -52,7 +52,7 @@ flask-algo-analyzer/
 
 Installation & Setup
 Clone the repository
-git clone https://github.com/your-username/flask-algo-analyzer.git
+[git clone ](https://github.com/Liata-Ornella/flask-algo-analyzer/)  
 cd flask-algo-analyzer
 
 Create and activate a virtual environment
